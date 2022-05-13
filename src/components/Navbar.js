@@ -1,6 +1,6 @@
 import React from 'react'
 import { ThemeContext } from '../contexts/ThemeContext';
-import { AuthContext } from './AuthContext';
+import { AuthContext } from '../contexts/AuthContext';
 
 
 
