@@ -10,7 +10,7 @@ class Navbar extends React.Component {
 
     render() {
 
-        const { isDarkTheme, darkTheme, lightTheme } = this.context;
+        // const { isDarkTheme, darkTheme, lightTheme } = this.context;
 
         //  const theme = isDarkTheme ? darkTheme : lightTheme;
         return (
